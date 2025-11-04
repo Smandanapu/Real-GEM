@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Real Estate Gems",
+  "description": "An application to discover undervalued real estate listings in the U.S., guided by Benjamin Graham’s value investing principles. Users can search by ZIP code, filter properties by their discount to market value, and export results to PDF.",
+  "requestFramePermissions": []
+}
